@@ -1,2 +1,2 @@
 # AheGAN
-domain adaption for anime face
+Self-supervised domain adaption from human face for anime face segmentation ~ kira:star:
