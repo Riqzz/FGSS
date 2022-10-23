@@ -1,3 +1,1 @@
-# FGSS
-
-A fine-grained sperm segmentation dataset
+### FGSS - A fine-grained sperm segmentation dataset
